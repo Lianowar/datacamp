@@ -1,4 +1,4 @@
-Country,NOC,ISO code
+country,noc,iso_code
 Afghanistan,AFG,AF
 Albania,ALB,AL
 Algeria,ALG,DZ
@@ -101,7 +101,8 @@ Kuwait,KUW,KW
 Kyrgyzstan,KGZ,KG
 Laos,LAO,LA
 Latvia,LAT,LV
-Lebanon,LIB,LB
+Lebanon,LBN,LB
+Lebanon,LIB,LB1
 Lesotho,LES,LS
 Liberia,LBR,LR
 Libya,LBA,LY
@@ -148,7 +149,8 @@ Poland,POL,PL
 Portugal,POR,PT
 Puerto Rico*,PUR,PR
 Qatar,QAT,QA
-Romania,ROM,RO
+Romania,ROU,RO
+Romania,ROM,RO1
 Russia,RUS,RU
 Rwanda,RWA,RW
 Saint Kitts and Nevis,SKN,KN
@@ -162,7 +164,8 @@ Senegal,SEN,SN
 Serbia,SRB,RS
 Seychelles,SEY,SC
 Sierra Leone,SLE,SL
-Singapore,SIN,SG
+Singapore,SGP,SG
+Singapore,SIN,SG1
 Slovakia,SVK,SK
 Slovenia,SLO,SI
 Solomon Islands,SOL,SB
@@ -177,14 +180,17 @@ Sweden,SWE,SE
 Switzerland,SUI,CH
 Syria,SYR,SY
 Taiwan,TPE,TW
+Taiwan,TWN,TW1
 Tajikistan,TJK,TJ
 Tanzania,TAN,TZ
 Thailand,THA,TH
 Togo,TOG,TG
 Tonga,TGA,TO
-Trinidad and Tobago,TRI,TT
+Trinidad and Tobago,TTO,TT
+Trinidad and Tobago,TRI,TT1
 Tunisia,TUN,TN
 Turkey,TUR,TR
+Tuvalu,TUV,TU
 Turkmenistan,TKM,TM
 Uganda,UGA,UG
 Ukraine,UKR,UA
@@ -235,3 +241,7 @@ South Yemen,YMD,32
 Zaire,ZAI,33
 Korea,COR,34
 United Team of Germany,EUA,35
+Macau China,MAC,36
+Montenegro,MNE,37
+Independent Olympic Participants,IOP,38
+Kosovo,KOS,39
